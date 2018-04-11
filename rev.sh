@@ -8,3 +8,4 @@ s=` expr $s + $r`
 n=`expr $n / 10`
 done
 echo "sum of the digits "$s" "
+echo "Branch22 modification"
